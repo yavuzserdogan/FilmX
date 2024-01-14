@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "lib"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Yavuz\\OneDrive\\Masaüstü\\postgresql-42.7.1.jar",
+        "c:\\Users\\Yavuz\\Downloads\\postgresql-42.7.1.jar"
+    ],
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.project.explorer.showNonJavaResources": true
+}
