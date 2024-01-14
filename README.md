@@ -1,18 +1,13 @@
-## Getting Started
+## FilmX
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to FilmX warehouse! This project is a Netflix-like application called FilmX.
 
-## Folder Structure
+## Project Background
 
-The workspace contains two folders by default, where:
+This Java program provides the basic user management functionality for a film application running on a PostgreSQL database. Users enter their email, password, age, and name for login and registration processes. The program retrieves user email addresses from the database, checks matching information for login, and verifies previously used email addresses when creating new registrations. The program manages users through a user-friendly interface and serves as a database-based user management solution for a fundamental film application.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Technologies Utilized
+* Java
+* Database: PostgreSQL
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
